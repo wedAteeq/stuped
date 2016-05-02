@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: b58a38e3871190147a9d2f49b9f970f6
+timeCreated: 1454756111
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: banner
+    100002: Camera_clip02
+    100004: Camera_clip02.Target
+    100006: Camera_clip03
+    100008: Camera_clip03.Target
+    100010: Camera_clip04
+    100012: Camera_clip04.Target
+    100014: Camera_clip05
+    100016: Camera_clip05.Target
+    100018: Camera_exterior
+    100020: Camera_exterior.Target
+    100022: light set_01
+    100024: light set_01_MeshPart0
+    100026: light set_01_MeshPart1
+    100028: light set_02
+    100030: light set_02_MeshPart0
+    100032: light set_02_MeshPart1
+    100034: light3
+    100036: //RootNode
+    100038: photo_frame01
+    100040: photo_frame02
+    100042: photo_frame03
+    100044: photo_frame04
+    100046: receiption_table
+    100048: room_wall_floor_glass
+    100050: Sofa
+    100052: Sofa01
+    100054: Sofa02
+    100056: Sofa03
+    100058: Sofa04
+    100060: Sofa05
+    100062: Sofa06
+    100064: Sofa07
+    100066: VRayLight08
+    100068: VRayLight35
+    100070: VRayLight36
+    100072: VRayLight37
+    100074: VRayLight_frame01
+    100076: VRayLight_frame02
+    100078: VRayLight_frame03
+    100080: VRayLight_frame04
+    100082: VRayLight_frame05
+    100084: VRayLight_frame06
+    100086: VRayLight_frame07
+    100088: VRayLight_frame08
+    100090: VRayLight_frame09
+    100092: VRayLight_frame10
+    100094: VRayLight_frame11
+    100096: VRayLight_frame12
+    100098: VRayLight_frame13
+    100100: VRayLight_frame14
+    100102: VRayLight_frame15
+    100104: VRayLight_frame16
+    100106: VRayLight_frame17
+    100108: VRayLight_frame18
+    100110: VRayLight_frame19
+    100112: VRayLight_frame20
+    100114: VRayPlane01
+    400000: banner
+    400002: Camera_clip02
+    400004: Camera_clip02.Target
+    400006: Camera_clip03
+    400008: Camera_clip03.Target
+    400010: Camera_clip04
+    400012: Camera_clip04.Target
+    400014: Camera_clip05
+    400016: Camera_clip05.Target
+    400018: Camera_exterior
+    400020: Camera_exterior.Target
+    400022: light set_01
+    400024: light set_01_MeshPart0
+    400026: light set_01_MeshPart1
+    400028: light set_02
+    400030: light set_02_MeshPart0
+    400032: light set_02_MeshPart1
+    400034: light3
+    400036: //RootNode
+    400038: photo_frame01
+    400040: photo_frame02
+    400042: photo_frame03
+    400044: photo_frame04
+    400046: receiption_table
+    400048: room_wall_floor_glass
+    400050: Sofa
+    400052: Sofa01
+    400054: Sofa02
+    400056: Sofa03
+    400058: Sofa04
+    400060: Sofa05
+    400062: Sofa06
+    400064: Sofa07
+    400066: VRayLight08
+    400068: VRayLight35
+    400070: VRayLight36
+    400072: VRayLight37
+    400074: VRayLight_frame01
+    400076: VRayLight_frame02
+    400078: VRayLight_frame03
+    400080: VRayLight_frame04
+    400082: VRayLight_frame05
+    400084: VRayLight_frame06
+    400086: VRayLight_frame07
+    400088: VRayLight_frame08
+    400090: VRayLight_frame09
+    400092: VRayLight_frame10
+    400094: VRayLight_frame11
+    400096: VRayLight_frame12
+    400098: VRayLight_frame13
+    400100: VRayLight_frame14
+    400102: VRayLight_frame15
+    400104: VRayLight_frame16
+    400106: VRayLight_frame17
+    400108: VRayLight_frame18
+    400110: VRayLight_frame19
+    400112: VRayLight_frame20
+    400114: VRayPlane01
+    2300000: banner
+    2300002: light set_01_MeshPart0
+    2300004: light set_01_MeshPart1
+    2300006: light set_02_MeshPart0
+    2300008: light set_02_MeshPart1
+    2300010: light3
+    2300012: photo_frame01
+    2300014: photo_frame02
+    2300016: photo_frame03
+    2300018: photo_frame04
+    2300020: receiption_table
+    2300022: room_wall_floor_glass
+    2300024: Sofa
+    2300026: Sofa01
+    2300028: Sofa02
+    2300030: Sofa03
+    2300032: Sofa04
+    2300034: Sofa05
+    2300036: Sofa06
+    2300038: Sofa07
+    3300000: banner
+    3300002: light set_01_MeshPart0
+    3300004: light set_01_MeshPart1
+    3300006: light set_02_MeshPart0
+    3300008: light set_02_MeshPart1
+    3300010: light3
+    3300012: photo_frame01
+    3300014: photo_frame02
+    3300016: photo_frame03
+    3300018: photo_frame04
+    3300020: receiption_table
+    3300022: room_wall_floor_glass
+    3300024: Sofa
+    3300026: Sofa01
+    3300028: Sofa02
+    3300030: Sofa03
+    3300032: Sofa04
+    3300034: Sofa05
+    3300036: Sofa06
+    3300038: Sofa07
+    4300000: room_wall_floor_glass
+    4300002: banner
+    4300004: receiption_table
+    4300006: light3
+    4300008: Sofa02
+    4300010: Sofa03
+    4300012: Sofa01
+    4300014: Sofa
+    4300016: Sofa04
+    4300018: Sofa05
+    4300020: Sofa06
+    4300022: Sofa07
+    4300024: light set_02_MeshPart0
+    4300026: light set_02_MeshPart1
+    4300028: light set_01_MeshPart0
+    4300030: light set_01_MeshPart1
+    4300032: photo_frame03
+    4300034: photo_frame04
+    4300036: photo_frame02
+    4300038: photo_frame01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
